@@ -18,3 +18,11 @@ A professional-grade, multi-threaded Algorithmic Crypto Futures Trading Bot buil
 * Data Analysis:- `pandas`
 * Alert System:- `plyer` (Native Windows Notifications)
 * Network Requests:- `requests`
+
+## Install Dependencies
+
+* pip install pandas python-binance plyer requests
+
+# Run the Bot
+
+* python main.py OR py main.py
